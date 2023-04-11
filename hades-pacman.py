@@ -315,7 +315,7 @@ class PacmanGameController:
             "XXX    XX          XX    XXX",
             "XXX XX XX X XXXX X XX XX XXX",
             "XXX XX XX X XXXXGX XX XX XXX",
-            "XXXO      XG     X          ",
+            "   O      XG     X      O   ",
             "XXX XX XX X XXXXGX XX XX XXX",
             "XXX XX XX X XXXX X XX XX XXX",
             "XXX    XX          XX    XXX",
