@@ -2,8 +2,6 @@
 
 ## Multi Pac-Man
 
-### YouTube link for Presentation: https://youtu.be/MJxD143bSZs  
-
 In this game, play as the ever-lovable and classic game character Pac-Man!
 
 But... OH NO!
@@ -28,3 +26,7 @@ To be able to run this game, please make sure the following Python libraries are
 - enum
 - re
 - sys
+
+### Credits / Acknoledgement
+This is a school project aimed to apply concepts discussed in a Python Lab Course. This project was created following the tutorial of Ing. Jan Jileček (https://itnext.io/how-to-create-pac-man-in-python-in-300-lines-of-code-or-less-part-1-288d54baf939). Thus, most of the program can be seen to be similar to the output showcased in his tutorial. 
+
